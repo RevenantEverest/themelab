@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://themelab.stefischer.com"><img src="./public/themelab.svg" width="200" /></a>
+</p>
+
 <h1 align="center">Theme Lab</h1>
 
 <p align="center">Build and export themes to speed up your website color palette prototyping!</p>
