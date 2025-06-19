@@ -52,7 +52,7 @@ function ColorBar() {
 
     return(
         <div className="fixed left-40 right-40 bottom-20 z-30">
-            <Card className="bg-card-light pt-3">
+            <Card className="bg-card-light pt-3 border-2 border-muted/20">
                 <CardContent className="flex flex-col gap-4 overflow-hidden">
                     <ColorBarNavigator 
                         paths={["Current Theme", "Saved Themes"]}

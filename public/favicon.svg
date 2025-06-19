@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 401.50004 489"
+   id="svg11"
+   sodipodi:docname="logo2.svg"
+   width="401.50003"
+   height="489.00003"
+   inkscape:export-filename="..\Exports\themelab_bubbleless.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: none;
+      }
+
+      .cls-1, .cls-11, .cls-12, .cls-10 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-6 {
+        stroke-linecap: round;
+      }
+
+      .cls-13 {
+        fill: #a42dc4;
+        stroke: #972dbd;
+        stroke-width: 5.6px;
+      }
+
+      .cls-13, .cls-14, .cls-15 {
+        isolation: isolate;
+      }
+
+      .cls-13, .cls-2, .cls-3, .cls-4, .cls-5, .cls-11, .cls-12, .cls-16, .cls-17, .cls-18, .cls-19, .cls-7, .cls-8, .cls-9, .cls-15, .cls-10 {
+        stroke-miterlimit: 11.3;
+      }
+
+      .cls-13, .cls-15 {
+        mix-blend-mode: darken;
+      }
+
+      .cls-2 {
+        stroke-width: 3.8px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #b64fe9;
+      }
+
+      .cls-3 {
+        stroke-width: 6.3px;
+      }
+
+      .cls-4 {
+        stroke-width: 4.5px;
+      }
+
+      .cls-5 {
+        stroke-width: 9.8px;
+      }
+
+      .cls-5, .cls-17, .cls-18, .cls-19 {
+        stroke: #670086;
+      }
+
+      .cls-20 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        stroke-width: 11.1px;
+      }
+
+      .cls-11, .cls-12, .cls-16 {
+        fill: #c8e5ff;
+      }
+
+      .cls-12 {
+        stroke-width: 11.1px;
+      }
+
+      .cls-16 {
+        stroke: #c8e5ff;
+        stroke-width: 22.3px;
+      }
+
+      .cls-6 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-17 {
+        stroke-width: 4.3px;
+      }
+
+      .cls-17, .cls-18, .cls-19 {
+        fill: #972dbd;
+      }
+
+      .cls-18 {
+        stroke-width: 5.9px;
+      }
+
+      .cls-19 {
+        stroke-width: 5.5px;
+      }
+
+      .cls-7 {
+        stroke-width: 5.6px;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        stroke: #a42dc4;
+      }
+
+      .cls-8 {
+        stroke-width: 4.5px;
+      }
+
+      .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-15 {
+        fill: #d82dff;
+        stroke: #d32df8;
+        stroke-width: 11.2px;
+      }
+
+      .cls-10 {
+        stroke-width: 11.3px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.7, SVG Export Plug-In . SVG Version: 1.2.0 Build 194)  -->
+  <g
+     class="cls-14"
+     id="g11"
+     transform="translate(-92.450006,-315.65001)">
+    <g
+       id="svg1">
+      <sodipodi:namedview
+         id="namedview1"
+         bordercolor="#eeeeee"
+         borderopacity="1"
+         inkscape:current-layer="layer2"
+         inkscape:cx="157.87606"
+         inkscape:cy="666.9742"
+         inkscape:deskcolor="#505050"
+         inkscape:document-units="mm"
+         inkscape:pagecheckerboard="0"
+         inkscape:pageopacity="0"
+         inkscape:showpageshadow="0"
+         inkscape:window-height="1009"
+         inkscape:window-maximized="1"
+         inkscape:window-width="1920"
+         inkscape:window-x="1912"
+         inkscape:window-y="-8"
+         inkscape:zoom="0.71891836"
+         pagecolor="#505050">
+        <inkscape:page
+           x="0"
+           y="0"
+           width="401.50003"
+           height="489"
+           id="page2"
+           margin="0"
+           bleed="0" />
+      </sodipodi:namedview>
+      <g
+         id="layer1"
+         inkscape:groupmode="layer"
+         inkscape:label="Layer 1">
+        <rect
+           id="rect7"
+           class="cls-11"
+           x="228.39999"
+           y="373.29999"
+           width="129.60001"
+           height="67.5" />
+        <path
+           id="path6"
+           class="cls-16"
+           d="m 278.1,792.2 c -20.7,-2.9 -28.4,-4.4 -40.6,-8.3 -68.6,-21.6 -118.9,-79.7 -130.7,-151 -3.4,-21 -2.2,-52.1 2.9,-72.7 18,-72.4 73.4,-125.8 146.9,-141.4 17.6,-3.8 56.3,-3.7 73.8,0 76.8,16.7 133.4,74.7 148.4,152.3 3.7,18.9 3.3,49.9 -0.8,69.5 -15.6,75.1 -74.49098,129.39643 -148.89098,144.59643 -3.40437,2.58997 -16.33685,2.84177 -20.62666,4.03498 -20.72497,5.76466 -6.01576,0.52561 -32.5495,2.3768 z m 50.2,-18.3 c 55,-11 102.6,-49.9 124.8,-101.9 10.4,-24.4 15.2,-55.1 13.2,-83.3 -1.7,-23.3 -6.6,-30.8 -20,-30.6 -9.5,0.1 -19.2,3.8 -46.4,17.3 -39.6,19.7 -52.9,22.8 -101.9,24 -49,1.1 -67.7,-2.2 -103.9,-18.7 -26.6,-12.1 -35.3,-14.8 -47.3,-14.8 -12,0 -17.7,3.8 -22.7,13.8 -9.4,18.9 -3.1,69.1 12.5,100.1 11.7,23.2 32.3,48.2 52.2,63.4 13.4,10.2 42.1,24.1 59.1,28.5 26.4,7 53.2,7.7 80.4,2.3 z"
+           inkscape:label="bottle fill"
+           style="display:inline"
+           sodipodi:nodetypes="cccccccccscccccccccscccccc" />
+        <circle
+           id="path1"
+           class="cls-10"
+           cx="293.20001"
+           cy="603.90002"
+           r="195.10001"
+           inkscape:label="bottle outline"
+           style="display:inline" />
+        <path
+           id="circle1"
+           class="cls-5"
+           d="m 461.4,603.9 c 0,92.9 -75.3,168.2 -168.2,168.2 -92.9,0 -168.2,-75.3 -168.2,-168.2 0,-92.9 30.6,-36.6 72.7,-15.1 42.2,21.5 96,54.5 142.4,54.5 46.4,0 76.8,-33.1 95.5,-54.5 18.7,-21.4 25.8,-31.3 25.8,15.1 z"
+           inkscape:label="liquid outline 1"
+           sodipodi:nodetypes="sssssss" />
+        <path
+           id="path2"
+           class="cls-5"
+           d="M 461.4,603.9 C 461,696.8 386.1,772.1 293.2,772.1 200.3,772.1 125,696.8 125,603.9 c 0,-92.9 30.6,-36.6 72.7,-15.1 42.2,21.5 107.5,20 153.2,11.7 37.8,-6.8 64.4,-30.9 90,-36.5 16.1,-3.5 20.7,5.1 20.5,40 v 0 z"
+           inkscape:label="liquid outline 2"
+           sodipodi:nodetypes="sssssss" />
+        <path
+           id="path3"
+           class="cls-15"
+           d="M 276.6,766 C 207.1,759 148.3,706.3 134,638 c -2.8,-13.1 -3.6,-22.5 -3.2,-35.5 0.4,-13.6 0.72337,-48.43235 6.66243,-48.34585 13.54587,0.19728 -6.88922,-2.497 7.51078,2.503 C 146.07604,556.83024 188.8,590 215.9,604.3 c 37.6,19.8 55.9,28.3 75.1,34.8 19,6.5 33.4,9.2 49.4,9.2 21.4,0 39.7,-5.8 58.8,-18.5 13.4,-9 24.2,-19.1 43.9,-41.4 5.2,-5.9 9.8,-10.8 10.3,-10.9 1.6,-0.5 2.1,5.1 2,24.9 0,21.3 -0.6,26.6 -4.9,42.8 -3,11.5 -6.5,20.7 -12.2,31.9 -8.5,16.8 -16.9,28.3 -30.1,41.6 -14.4,14.5 -25.9,22.7 -44.2,31.7 -26.9,13.3 -57.5,18.8 -87.6,15.7 v 0 z"
+           inkscape:label="liquid fill 1"
+           sodipodi:nodetypes="cccscccsccccccccscc"
+           style="display:inline" />
+        <path
+           id="path5"
+           class="cls-13"
+           d="m 332.1,637.9 c -18.2,-1.6 -39.4,-8 -64.4,-19.3 -8.3,-3.8 -21.1,-9.9 -20.9,-10.1 0,0 2.7,0.2 5.8,0.6 11.9,1.5 16.7,1.7 35.9,1.7 20.1,0 25.4,-0.3 41.7,-2.2 32.6,-3.9 44.7,-7.8 79.4,-25.9 18.4,-9.6 28.4,-13.6 36,-14.3 l 2.6,-0.2 -2.6,2.2 c -1.4,1.2 -4.2,4.1 -6.3,6.4 -2,2.3 -6.4,7.3 -9.8,11 -7.3,8.2 -15.3,16.5 -20.8,21.4 -18.7,16.6 -37.5,25.9 -57.7,28.4 -4.4,0.6 -14.6,0.8 -19,0.4 v 0 z"
+           inkscape:label="liquid fill 2"
+           sodipodi:nodetypes="ccccscccccccccscc"
+           style="display:inline" />
+        <rect
+           id="rect8"
+           class="cls-12"
+           x="208.3"
+           y="321.20001"
+           width="169.7"
+           height="51.799999"
+           rx="13.9"
+           ry="13.9" />
+        <circle
+           id="path8"
+           class="cls-18"
+           cx="406.10001"
+           cy="538.79999"
+           r="18.5" />
+        <circle
+           id="circle9"
+           class="cls-17"
+           cx="358"
+           cy="512.70001"
+           r="10.8"
+           transform="rotate(-80.8,357.89844,512.67209)" />
+        <circle
+           id="circle12"
+           class="cls-19"
+           cx="375.39999"
+           cy="470.39999"
+           r="11" />
+        <circle
+           id="circle6"
+           class="cls-3"
+           cx="314.29999"
+           cy="265.5"
+           r="19.9"
+           style="display:none" />
+        <circle
+           id="circle7"
+           class="cls-4"
+           cx="280.20001"
+           cy="190.39999"
+           r="14.1"
+           style="display:none" />
+        <circle
+           id="circle10"
+           class="cls-2"
+           cx="251.39999"
+           cy="249.10001"
+           r="12"
+           style="display:none" />
+        <path
+           class="cls-6"
+           d="m 165.7,494.5 c 18.7,-21.7 42.9,-38.6 70.4,-48.5"
+           id="path4" />
+        <path
+           class="cls-6"
+           d="m 157.5,504.8 c 0.4,-0.5 0.8,-1 1.1,-1.5"
+           id="path7" />
+      </g>
+      <g
+         id="layer2"
+         inkscape:groupmode="layer"
+         inkscape:label="Layer 2">
+        <circle
+           id="circle14"
+           cx="247.5"
+           cy="680.40002"
+           r="21.9"
+           inkscape:label="circle14" />
+        <circle
+           id="path14"
+           class="cls-20"
+           cx="253.60001"
+           cy="673.5"
+           r="7.0999999" />
+        <circle
+           id="circle15"
+           class="cls-20"
+           cx="245.5"
+           cy="677.90002"
+           r="3.5" />
+        <circle
+           id="circle18"
+           cx="368"
+           cy="679.90002"
+           r="21.9" />
+        <circle
+           id="circle19"
+           class="cls-20"
+           cx="361.89999"
+           cy="673.09998"
+           r="7.0999999"
+           transform="rotate(-9.2,362.95151,674.05624)" />
+        <circle
+           id="circle20"
+           class="cls-20"
+           cx="370"
+           cy="677.40002"
+           r="3.5" />
+      </g>
+      <g
+         id="g10">
+        <path
+           class="cls-1"
+           d="m 291.7,725.6 c 0,0 14.4,8.4 25.4,-1.3"
+           id="path9" />
+        <path
+           class="cls-1"
+           d="m 292.7,720 c 0,0 0.4,2.8 -1,5.2 -1.4,2.4 -4.1,3.3 -4.1,3.3"
+           id="path10" />
+      </g>
+      <line
+         class="cls-6"
+         x1="305.20001"
+         y1="336.79999"
+         x2="363"
+         y2="336.79999"
+         id="line10" />
+    </g>
+  </g>
+</svg>

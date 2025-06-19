@@ -14,7 +14,7 @@ function Highlights() {
             <div className="flex flex-col md:flex-row gap-5">
                 <Card className="flex-1 flex items-center justify-center">
                     <CardHeader className="flex w-full items-center justify-center">
-                        <FaSmileBeam className="text-6xl" />
+                        <FaSmileBeam className="text-6xl text-accent" />
                     </CardHeader>
                     <CardTitle>
                         <h2 className="text-2xl font-semibold">Instant Changes</h2>
@@ -25,7 +25,7 @@ function Highlights() {
                 </Card>
                 <Card className="flex-1 flex items-center justify-center">
                     <CardHeader className="flex w-full items-center justify-center">
-                        <FaCheckCircle className="text-6xl" />
+                        <FaCheckCircle className="text-6xl text-accent" />
                     </CardHeader>
                     <CardTitle>
                         <h2 className="text-2xl font-semibold">Spend Less Time</h2>
@@ -36,7 +36,7 @@ function Highlights() {
                 </Card>
                 <Card className="flex-1 flex items-center justify-center">
                     <CardHeader className="flex w-full items-center justify-center">
-                        <FaBlenderPhone className="text-6xl" />
+                        <FaBlenderPhone className="text-6xl text-accent" />
                     </CardHeader>
                     <CardTitle>
                         <h2 className="text-2xl font-semibold">Third Reason</h2>

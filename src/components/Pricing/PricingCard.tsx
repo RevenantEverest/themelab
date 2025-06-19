@@ -19,7 +19,7 @@ function PricingCard({ title, subtitle, price, priceTime, standout, features }: 
                 key={`pricing-card-${title}-${feature}-${index}`}
                 className="flex items-center gap-4"
             >
-                <FaCheck className="text-2xl text-primary" />
+                <FaCheck className="text-2xl text-accent" />
                 <p>{feature}</p>
             </div>
         ));
@@ -33,7 +33,7 @@ function PricingCard({ title, subtitle, price, priceTime, standout, features }: 
                     <p className="text-muted">{subtitle}</p>
                 </div>
                 <div className="flex-1 flex items-center justify-center">
-                    <FaDollarSign className="text-primary" />
+                    {price !== 0 && <FaDollarSign className="text-accent" />}
                     <p className="text-lg font-semibold">
                         {price === 0 ? "Free" : (price).toLocaleString()} <span>{priceTime && `/ ${priceTime}`}</span>
                     </p>

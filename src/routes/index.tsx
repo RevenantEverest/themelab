@@ -17,7 +17,7 @@ function Index() {
                         <h1 className="font-bold text-4xl md:text-7xl leading-12 md:leading-19">
                             Visualize Your
                             <br />
-                            <span className="bg-gradient-to-tr from-primary to-secondary bg-clip-text text-transparent">Colors</span> & 
+                            <span className="bg-gradient-to-br from-primary to-accent bg-clip-text text-transparent">Colors</span> & 
                             <span className="ml-4 text-accent">Themes</span>
                             <br />
                             On a <span className="relative mr-10">Real <span className="text-sm md:text-lg absolute top-1 md:top-5 -right-8">(Fake)</span></span>Site
