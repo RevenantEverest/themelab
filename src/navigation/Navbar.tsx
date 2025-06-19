@@ -7,7 +7,10 @@ import { useScrollPosition } from '@/hooks';
 
 import { FaBars } from 'react-icons/fa6';
 import ThemeChanger from '@/components/ThemeChanger/ThemeChanger';
+import GitHubStars from '@/components/Common/GitHubStars';
 import MobileNavbar from './MobileNavbar';
+
+import ThemeLabLogo from '@/assets/themelab_bubbleless.svg';
 
 function Navbar() {
 
@@ -21,7 +24,7 @@ function Navbar() {
 
     useEffect(() => {
         const solidPos = {
-            home: 550,
+            home: 100,
             other: 400
         };
 
@@ -102,13 +105,13 @@ function Navbar() {
                             transition: { duration: .3 }
                         }}
                     >
-                        <div className="h-full w-full bg-background absolute py-11 z-40" />
+                        <div className="h-full w-full bg-background absolute py-11 z-40 border-b-2 border-muted/40 duration-150" />
                     </motion.div>
                 }
                 </AnimatePresence>
                 <div className="flex items-center justify-center py-4 w-11/12 md:w-8/12 z-10">
                     <Link to="/" className="flex-1 flex justify-start items-center gap-1">
-                        {/* <OccultLogo height={40} width={40} fill={theme.colors.primary} /> */}
+                        <img className="w-10" src={ThemeLabLogo} alt="logo" />
                         <h1 className="font-bold text-lg">ThemeLab</h1>
                         <div className="bg-primary px-2 py-.5 rounded-md mt-1">
                             <p className="text-sm font-semibold">v2.0.0-alpha</p>
@@ -119,7 +122,7 @@ function Navbar() {
                     </div>
                     <div className="flex-1 hidden md:flex items-center justify-end gap-5">
                         <ThemeChanger setTheme={setTheme} />
-                        {/* <GithubStars owner="occultlang" repo="occult" /> */}
+                        <GitHubStars owner="RevenantEverest" repo="themelab" />
                     </div>
                     <div className="flex items-center justify-end md:hidden">
                         <div className="ml-4 mr-4 flex md:hidden justify-center content-center items-center" onClick={() => setIsMobileOpen(!isMobileOpen)}>
