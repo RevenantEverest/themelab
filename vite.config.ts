@@ -21,10 +21,6 @@ export default defineConfig({
         }
     },
     server: {
-        port: 3000,
-        allowedHosts: ['8f76-47-16-99-31.ngrok-free.app'],
-        cors: {
-            origin: ['<https://8f76-47-16-99-31.ngrok-free.app>']
-        }
+        port: 3000
     }
 });
