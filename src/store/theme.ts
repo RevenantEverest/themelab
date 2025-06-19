@@ -19,14 +19,14 @@ interface ThemeActions {
 
 const defaultTheme: Theme = {
     colors: {
-        primary: "#FB5377",
-        secondary: "#FFD4DD",
-        accent: "#d0ae61",
-        background: "#1a0708",
-        card: "#260B0E",
-        cardLight: "#47161D",
-        text: "#f8dddf",
-        muted: "#704c4f"
+        primary: "#D82DFF",
+        secondary: "#670086",
+        accent: "#5cce39",
+        background: "#140418",
+        card: "#1B0323",
+        cardLight: "#32093C",
+        text: "#f6d5fe",
+        muted: "#694f72"
     },
     mode: "dark",
     name: "default"
