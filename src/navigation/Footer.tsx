@@ -1,5 +1,6 @@
 import { FaGithub, FaDiscord } from 'react-icons/fa';
 import { motion } from 'motion/react';
+import { URLS } from '@/constants';
 
 function Footer() {
 
@@ -24,7 +25,7 @@ function Footer() {
                             className="hover:cursor-pointer"
                             whileHover={{ y: "-.5vh" }}
                         >
-                            <a href={"https://google.com"} target="_blank" rel="noopener noreferrer">
+                            <a href={URLS.GITHUB_REPO} target="_blank" rel="noopener noreferrer">
                                 <FaGithub />
                             </a>
                         </motion.div>
